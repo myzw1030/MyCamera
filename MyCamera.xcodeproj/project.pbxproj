@@ -11,6 +11,7 @@
 		DA7F65612A513CD500CBD45D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F65602A513CD500CBD45D /* ContentView.swift */; };
 		DA7F65632A513CD900CBD45D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA7F65622A513CD900CBD45D /* Assets.xcassets */; };
 		DA7F65662A513CD900CBD45D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA7F65652A513CD900CBD45D /* Preview Assets.xcassets */; };
+		DA7F656D2A513F7E00CBD45D /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F656C2A513F7E00CBD45D /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DA7F65602A513CD500CBD45D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA7F65622A513CD900CBD45D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA7F65652A513CD900CBD45D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA7F656C2A513F7E00CBD45D /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DA7F655E2A513CD500CBD45D /* MyCameraApp.swift */,
 				DA7F65602A513CD500CBD45D /* ContentView.swift */,
+				DA7F656C2A513F7E00CBD45D /* ImagePickerView.swift */,
 				DA7F65622A513CD900CBD45D /* Assets.xcassets */,
 				DA7F65642A513CD900CBD45D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA7F65612A513CD500CBD45D /* ContentView.swift in Sources */,
+				DA7F656D2A513F7E00CBD45D /* ImagePickerView.swift in Sources */,
 				DA7F655F2A513CD500CBD45D /* MyCameraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
